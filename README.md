@@ -6,4 +6,5 @@ I followed those steps:
 3.	[TensorFlow estimator](/tensorflow_estimator.ipynb)
 4.	[TensorFlow Custom Model](tf_custom_model.ipynb)
 5.	[Classification](classification_demo.ipynb)
+5.	[Build a TensorFlow Image Classifier](image_classifier.ipynb)
 
