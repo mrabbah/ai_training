@@ -106,3 +106,4 @@ ENV/
 .idea/vcs.xml
 .idea/workspace.xml
 .DS_Store
+darknet/

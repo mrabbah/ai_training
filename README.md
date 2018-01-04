@@ -7,4 +7,5 @@ I followed those steps:
 4.	[TensorFlow Custom Model](tf_custom_model.ipynb)
 5.	[Classification](classification_demo.ipynb)
 5.	[Build a TensorFlow Image Classifier](image_classifier.ipynb)
+6. [YOLO: Detection Using A Pre-Trained Model](yolo_pretrained_model.ipynb)
 
