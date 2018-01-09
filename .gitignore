@@ -107,3 +107,5 @@ ENV/
 .idea/workspace.xml
 .DS_Store
 darknet/
+universe/
+*.h264
