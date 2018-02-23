@@ -8,5 +8,5 @@ I followed those steps:
 5.	[Classification](classification_demo.ipynb)
 5.	[Build a TensorFlow Image Classifier](image_classifier.ipynb)
 6. [YOLO: Detection Using A Pre-Trained Model](yolo_pretrained_model.ipynb)
-7. [PROTOBUF : Example](protobuf_demo.ipynb)
+
 
