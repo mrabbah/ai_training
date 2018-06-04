@@ -1,0 +1,2 @@
+python3 import_pb_to_tensorboard.py --model_dir /Users/rabbah/projects/boat_simulator/python/models/103/raw_graph_def.pb --log_dir /tmp/tensorflow_logdir
+
